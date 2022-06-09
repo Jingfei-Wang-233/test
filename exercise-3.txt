@@ -1,1 +1,5 @@
 this is exercise-3.txt to test diff command.
+
+make a difference. 
+
+WORK-LIFE balance matters!
