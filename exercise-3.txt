@@ -4,5 +4,12 @@ make a difference.
 
 WORK-LIFE balance matters!
 try to update multiple files at one trial.
+we love git.
+example of trying to use git add -p
+
+do not save this line.
+ only save line 10/
+
+
 
 we love git.
