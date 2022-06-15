@@ -19,10 +19,13 @@
 - 继续谷歌：发现了这个相关文档：https://gist.github.com/ddeveloperr/1859fd395e7cb5832c59
 解决： 
     对照文档，将repo的URL改成了文档中对应的：git+ssh://git@github.com/我的用户名/repo名.git
+    即 git remote set-url origin git+ssh://git@github.com/username/reponame.git
 结果：
     push成功了！查看github的repo里有本地目录里的几个文件了！
     感动！
 
+-再更新一下：
+    试着clone了一下自己的priviate repo ,如果只是复制url，依然要输入账号密码，于是把url改成了ssh，又可以了
 reference：
 1. https://gist.github.com/ddeveloperr/1859fd395e7cb5832c59
 2. https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
