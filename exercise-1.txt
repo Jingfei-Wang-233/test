@@ -3,5 +3,3 @@ wjf is learning how to use git.
 git is simple, and sometimes a bit idiotic.
 
 i'm starting to know git.
-
-我呸！
