@@ -8,7 +8,6 @@ we love git.
 example of trying to use git add -p
 
 do not save this line.
- only save line 10/
 
 
 
